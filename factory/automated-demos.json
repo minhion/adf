@@ -1,0 +1,15 @@
+{
+	"name": "automated-demos",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned,UserAssigned",
+		"principalId": "a265808e-93e9-41e7-ba93-d47eac505ba7",
+		"tenantId": "92b796c5-5839-40a6-8dd9-c1fad320c69b",
+		"userAssignedIdentities": {
+			"/subscriptions/31681904-0560-470e-a176-edea4d195b22/resourcegroups/JOC-RESOURCE/providers/Microsoft.ManagedIdentity/userAssignedIdentities/adf-managed-identity": {
+				"clientId": "74a4fe21-597f-484e-97a0-6e305cd4a1f0",
+				"principalId": "41c4018b-0601-4850-a056-8d6a4f4ea806"
+			}
+		}
+	}
+}
